@@ -1,4 +1,4 @@
-# siteKyrieIrving
+# Site Kyrie Irving
 Site criado em março de 2019 como projeto para a matéria de Programação Web na Etec de Guainases.
 <br>
 Atualizado em Agosto de 2020.
